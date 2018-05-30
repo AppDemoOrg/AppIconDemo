@@ -28,7 +28,7 @@
         -->
         <activity-alias
             android:name=".icon_tag"
-            android:enabled="true"
+            android:enabled="false"
             android:icon="@mipmap/icon_normal"
             android:label="App普通版"
             android:targetActivity=".MainActivity">
